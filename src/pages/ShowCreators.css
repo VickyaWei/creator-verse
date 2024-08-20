@@ -1,0 +1,30 @@
+.creators-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px; /* Space between cards */
+    justify-content: center; /* Center align the cards */
+    padding: 20px;
+  }
+  
+  .creators-list p {
+    font-size: 1.2em;
+    color: #555;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  /* Optional: Style individual cards if needed */
+  .card {
+    flex: 1 1 calc(25% - 32px); /* Adjust width based on the number of columns */
+    max-width: calc(25% - 32px); /* Prevent cards from exceeding this width */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
+  
