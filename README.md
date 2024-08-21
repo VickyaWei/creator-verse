@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://drive.google.com/drive/u/0/home
+[https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1BLi6SYHL5kM8T4vH5v5mSb2CqVOpszcc/view?usp=sharing)
 
 
 ## Notes
